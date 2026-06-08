@@ -1,0 +1,2 @@
+ID: 0000 | Offset: 0x00112200 - 0x074F3438 | Size: 121508408 bytes | Path: data/data.cpk
+ID: 0001 | Offset: 0x074F3600 - 0x0799F520 | Size:  4898592 bytes | Path: data/sound_data.sdat

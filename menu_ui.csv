@@ -1,0 +1,169 @@
+File,Type,Offset,Index,Japanese,English
+ID04511,Table,0x0048,0,今、麟君の、って\n言ったよね,"You just said Rin-kun's, right?"
+ID04511,Table,0x0072,1,りんりんのアレ？,Rinrin's thing?
+ID04511,Table,0x008B,2,麟の物が落ちてた\nっぽい？,It looks like something belonging to Rin was lying there?
+ID04511,Table,0x00B2,3,ああ、何か\n麟の持ち物を\n拾ったみたいだ,"Ah, it looks like I picked up something that belonged to Rin."
+ID04511,Table,0x00ED,4,重要な遺留品ね,Important belongings left behind.
+ID04511,Table,0x0103,5,この場面、重要ふう,This scene seems important.
+ID04511,Table,0x011F,6,事件の手がかり、\nってわけね,"Clues to the case,\n So that's it."
+ID04511,Table,0x0149,7,うん、\n早速刻音を作ろう,"Yeah,\n Let's make a sound right away."
+ID04511,Table,0x016D,8,【佳子の拾い物】\nの刻音を手に入れた！,[Kako's finds]\n I obtained the sound of the marker!
+ID04533,Robust,0x0259,,\nって言ったよね,"\nThat's what you said, right?"
+ID04533,Robust,0x0271,,よっちゃん、ご頭首の\n部屋で$c02逢魔$c00のケイコ？,"Yo-chan, is Keiko from $c02 Oumaga $c00 in the boss's room?"
+ID04533,Robust,0x02B8,,今、$c02逢魔$c00って言った？,Did you just say $c02 Ouma $c00 ?
+ID04533,Robust,0x02DF,,ああ,ah
+ID04533,Robust,0x02E6,,何なんだろうね？,I wonder what it is?
+ID04533,Robust,0x02FF,,なにゴト？,What's going on?
+ID04533,Robust,0x030F,,気になるなぁ、何だろ？,"I'm curious, what could it be?"
+ID04533,Robust,0x0331,,これだけでは、\n何とも,This alone is not enough.\n What can I say?
+ID04533,Robust,0x0358,,【佳子のつぶやき】\nの刻音を手に入れた！,[Kako's Tweet]\n I obtained the sound of the marker!
+ID04541,Robust,0x0488,,ああぁ,Ahhh
+ID04541,Robust,0x0498,,これで\n良かったのかしら,I wonder if this was the right thing to do?
+ID04541,Robust,0x04C0,,誰かいるの？,Is anyone there?
+ID04541,Robust,0x04D3,,あなたは！,you!
+ID04541,Robust,0x04E3,,何をする,what are you going to do
+ID04550,Robust,0x0009,,\n少し気にな,\nI'm a little concerned
+ID04559,Robust,0x05B8,,すごい秘密を\n見つけたかも,I think I've discovered an amazing secret.
+ID04559,Robust,0x05E5,,お婆様の事件も、みんな\n解決しちゃいそうだ,It looks like all of Grandma's cases will be solved too.
+ID04559,Robust,0x0624,,コレ、どうしとけば\nいいんだろ,What should I do about this?
+ID04565,Robust,0x0448,,あれが本当なら、\nこの部屋のどこかに,"If that's true,\n Somewhere in this room"
+ID04565,Robust,0x0481,,あったわ！,I found it!
+ID04565,Robust,0x0491,,やっぱり,on second thoughts
+ID04565,Robust,0x04A4,,何を\n見つけたんだろう,I wonder what they found.
+ID04565,Robust,0x04C5,,怪しいね,That's suspicious.
+ID04565,Robust,0x04D2,,仮面の秘密,The secret of the mask
+ID04565,Robust,0x04E2,,執事がなんか、\n隠し持ってたんでしょ,"The butler said something,\n You were hiding it, weren't you?"
+ID04565,Robust,0x0518,,事件の大きな\n手がかりだろうね,This will likely be a major clue in the case.
+ID04565,Robust,0x0545,,【ユリ子の発見】\nの刻音を手に入れた！,[Yuriko's discovery]\n I obtained the sound of the marker!
+ID04593,Robust,0x0740,,$c02殺人$c00予告！,$c02 Murder $c00予告!
+ID04595,Robust,0x0648,,シグマ,sigma
+ID04595,Robust,0x0668,,だった？,Was it?
+ID04595,Robust,0x0675,,あぁ,Ah
+ID04595,Robust,0x0681,,\nなんとか,\nSomehow
+ID04595,Robust,0x0696,,私は,I
+ID04595,Robust,0x06A2,,\nもう,\nalready
+ID04595,Robust,0x06B1,,ネオン？！,neon?!
+ID04595,Robust,0x06C1,,ごめん,sorry
+ID04595,Robust,0x06D0,,\nなさい,\nDo it
+ID04595,Robust,0x06E2,,でも,but
+ID04613,Robust,0x1010,,あら,fault
+ID04613,Robust,0x101C,,？\nこの電話、\n壊れてるのかしら？,"?\n This phone,\n Is it broken?"
+ID04613,Robust,0x104E,,なっ,Nah
+ID04613,Robust,0x105A,,？！,?!
+ID04613,Robust,0x106A,,あなた！,you!
+ID04613,Robust,0x1C08,,ここまでのお話を,Let's continue with what we've discussed so far.
+ID04617,Robust,0x0608,,イベント制作中,Event production in progress
+ID04617,Robust,0x1608,,イベント制作中,Event production in progress
+ID04621,Table,0x0078,0,お茶が入りました,The tea is ready.
+ID04621,Table,0x0091,1,いつもありがとう,thank you as always
+ID04621,Table,0x00AA,2,いえ……,
+ID04621,Table,0x00B7,3,どうかしたの？\n浮かない顔をして,Is something wrong?\n With a gloomy expression
+ID04621,Table,0x00E7,4,実は……,
+ID04621,Table,0x00F4,5,ꓥ蚩꟦劁Ԁ^楩务─,
+ID04623,Robust,0x0A5C,,大婆様に始まり、,"It began with the great-grandmother,"
+ID04625,Robust,0x0E0C,,お婆様、すみません,"I'm sorry, Grandma."
+ID04625,Robust,0x0E28,,少しだけ、失礼させて\nいただきます,I'll excuse myself for just a moment.
+ID04625,Robust,0x0E5B,,やっぱりそうだわ\n両手で首を\n絞められ,"I knew it, he was strangling me with both hands."
+ID04635,Robust,0x0CC8,,シグマ、これ,"Sigma, this"
+ID04635,Robust,0x0CE1,,シグマ、こ,"Sigma,"
+ID04637,Robust,0x0C20,,式札が\n変化したみたい,It looks like the ceremonial plaque has changed.
+ID04637,Robust,0x0C41,,式札、変化したふう,The ceremonial plaque seems to have changed.
+ID04637,Robust,0x0C5D,,シグマ、式札が変化した,Sigma's ceremonial tags have changed.
+ID04637,Robust,0x0C7F,,よし、大時計へ戻って\n新しい時を\n紡いでみよう,"Okay, let's go back to the clock and start a new chapter in time."
+ID04771,Robust,0x0C10,,こんにちわ\nシグマ,Hello Sigma
+ID04771,Robust,0x0C2B,,こんばんわ,good evening
+ID05005,Robust,0x0804,,まずいぞ、$c02業逢魔$c00だ！,"This is bad, it's $c02 Karma Ouma $c00 !"
+ID05025,Table,0x0048,0,$c02逢魔$c00を完全に隔離したよ,I've completely isolated $c02 Ouma $c00 .
+ID05025,Table,0x0072,1,これでしばらく\n$c02逢魔$c00から身を隠せるね,This will last for a while\n You can hide from $c02 Ouma $c00 .
+ID05025,Table,0x00B0,2,$c02業逢魔$c00の動きを\n止めたよ,I stopped the movements of $c02 Gyouma $c00 .
+ID05025,Table,0x00DC,3,$c02業逢魔$c00の…,$c02 Gyou Ouma $c00 no...
+ID05025,Table,0x00F4,4,$c04神様なのっす！,$c04 is a god!
+ID05025,Table,0x010E,5,おっと、,"Oops,"
+ID05025,Table,0x011B,6,神霊の動きを\n止めたよ,I stopped the movement of the divine spirit.
+ID05025,Table,0x013C,7,魂の影が見つかったよ,I found the shadow of the soul.
+ID05025,Table,0x015B,8,この時間の魂の影は、\n既にすべて現れている\nようだ,"The shadow of the soul at this time,\n It seems everything has already been revealed."
+ID05026,Robust,0x0408,,$c02逢魔$c00！,$c02 ouma $c00 !
+ID05028,Table,0x0020,0,$c02大逢魔$c00だ！！\n来るぞ！,It's $c02 Great Demon Ogre $c00 !!\n Here it comes!
+ID05028,Table,0x0049,1,うん！\n神降ろし、行きます！！,Yeah!\n The divine summoning is about to begin!!
+ID05028,Table,0x0076,2,了解。\n神降ろし、\n始めるとしよう,"roger that.\n Invocation of a god,\n Let's begin."
+ID05028,Table,0x00A8,3,おっけー！\n神降ろし、\n行っくわよ！！,"Okay!\n Invocation of a god,\n Let's go!!"
+ID05031,Robust,0x0608,,大逢魔だ！！,It's a great demon encounter!!
+ID05036,Robust,0x0608,,$c02大逢魔$c00だ！！,It's $c02 Great Demon Ogre $c00 !!
+ID05039,Robust,0x04BC,,なんだ、\nあの$c02逢魔$c00は？！,What?\n What about that $c02 Ouma $c00 ?!
+ID05039,Robust,0x04E8,,人型？！\nお、$c02逢魔人$c00なの？！,"A humanoid figure?!\n Oh, is it $c02 Oumajin $c00 ?!"
+ID05039,Robust,0x051A,,ふみゅ！　人型？\nあれも$c02逢魔人$c00？,Fumu! Humanoid?\n Is that also $c02 Oumajin $c00 ?
+ID05039,Robust,0x0552,,なっ！　人型,What! Humanoid
+ID05086,Table,0x0010,0,こんにちわ\nシグマ,Hello Sigma
+ID05086,Table,0x002B,1,こんばんわ,good evening
+ID05090,Robust,0x0210,,こんにちわ\,hello\
+ID05141,Table,0x0008,0,あっ……あ……,
+ID05441,Table,0x0010,0,天井のガラスが\n割れる音,The sound of glass breaking on the ceiling
+ID05441,Table,0x0034,1,？！,?!
+ID05447,Table,0x0010,0,ま、待て！,"Wait, hold on!"
+ID05447,Table,0x0020,1,なん……なんだ……,
+ID05467,Table,0x0017,1,はい、未来の……\n全ての人のために……,
+ID05479,Table,0x0018,0,$c02大逢魔$c00？！,$c02 Daioma $c00 ? !
+ID05479,Table,0x0030,1,こんなところまで！！,Even here!!
+ID05479,Table,0x004F,2,来る！！,come!!
+ID05488,Table,0x0018,0,おんや？,Huh?
+ID05488,Table,0x0025,1,！,!
+ID05488,Table,0x0029,2,なんじゃ、誰が、\nこんな！,What? Who?\n Like this!
+ID05499,Table,0x0018,0,それじゃあ、僕はこれで,"Well then, I'll be going now."
+ID05499,Table,0x003A,1,はい,yes
+ID05499,Table,0x0041,2,！,!
+ID05564,Robust,0x4C18,,くっくっくっ,Hehehe
+ID05564,Robust,0x4C2B,,これで、黒上の歴史も\nお・し・ま・い・だ,"And with that, Kurokami's history comes to an end."
+ID05564,Robust,0x4C67,,さぁ、\n最後の仕事をしよう,"Now,\n Let's do our final job."
+ID05570,Robust,0x3008,,$c02大逢魔$c00だ！！\n来るぞ！,It's $c02 Great Demon Ogre $c00 !!\n Here it comes!
+ID05572,Table,0x0008,0,二人がかりで\nその程度か……,Is that all you can do with two people working together...?
+ID05573,Robust,0x0C10,,こんにちわ\nシグマ,Hello Sigma
+ID05573,Robust,0x0C2B,,こんばんわ,good evening
+ID05582,Robust,0x0410,,こんにちわ\nシグマ,Hello Sigma
+ID05582,Robust,0x042B,,こんばんわ,good evening
+ID05582,Robust,0x0C10,,こんにちわ\nシグマ,Hello Sigma
+ID05582,Robust,0x0C2B,,こんばんわ,good evening
+ID05582,Robust,0x1410,,こんにちわ\nシグマ,Hello Sigma
+ID05582,Robust,0x142B,,こんばんわ,good evening
+ID05582,Robust,0x1C10,,こんにちわ\nシグマ,Hello Sigma
+ID05582,Robust,0x1C2B,,こんばんわ,good evening
+ID05582,Robust,0x2410,,こんにちわ\nシグマ,Hello Sigma
+ID05582,Robust,0x242B,,こんばんわ,good evening
+ID05582,Robust,0x2C10,,こんにちわ\nシグマ,Hello Sigma
+ID05582,Robust,0x2C2B,,こんばんわ,good evening
+ID05582,Robust,0x3410,,こんにちわ\nシグマ,Hello Sigma
+ID05582,Robust,0x342B,,こんばんわ,good evening
+ID05582,Robust,0x3C10,,こんにちわ\nシグマ,Hello Sigma
+ID05582,Robust,0x3C2B,,こんばんわ,good evening
+ID05582,Robust,0x4410,,こんにちわ\nシグマ,Hello Sigma
+ID05582,Robust,0x442B,,こんばんわ,good evening
+ID05587,Table,0x0080,0,キュウソ,Kyuso
+ID05587,Table,0x008D,1,テツギュウ,Tetsugyu
+ID05587,Table,0x009D,2,ジュウオウ,Zyuoh
+ID05587,Table,0x00AD,3,ゲッセイ,Gessei
+ID05587,Table,0x00BA,4,リュウジン,Ryujin
+ID05587,Table,0x00CA,5,オロチ,Orochi
+ID05587,Table,0x00D4,6,ワカコマ,Wakakoma
+ID05587,Table,0x00E1,7,ヨウシン,Youshin
+ID05587,Table,0x00EE,8,ショウジョウ,Shojo
+ID05587,Table,0x0101,9,シラトリ,Shiratori
+ID05587,Table,0x010E,10,イヌボエ,Inuboe
+ID05587,Table,0x011B,11,ヤマクジラ,Japanese whale
+ID05587,Table,0x012B,12,ミツネコ,Mitsuneko
+ID05587,Table,0x0138,13,カラクリ,Karakuri
+ID05587,Table,0x0145,14,ニンギョ,Mermaid
+ID05587,Table,0x0152,15,　,
+ID05588,Robust,0x0364,,《回帰》\n大時計の間へ瞬時に移動する,Regression\n Instantly move to the room with the large clock.
+ID05588,Robust,0x039A,,《不可視》\n少しの間、姿を隠し、\n逢魔との戦闘を回,"Invisible\n For a short while, I hid myself.\n Battle against Ouma"
+ID05588,Robust,0x0C10,,使用する場所を選んでください。,Please choose where you will use it.
+ID05588,Robust,0x0C3E,,式札を使いますか？,Will you be using a ceremonial plaque?
+ID05588,Robust,0x1610,,変更する項目を選んでください。,Please select the item you wish to change.
+ID05591,Robust,0x0D38,,１の刻,1st hour
+ID05591,Robust,0x0D42,,２の刻,The second hour
+ID05591,Robust,0x0D4C,,３の刻,The third hour
+ID05591,Robust,0x0D56,,４の刻,The hour of 4
+ID05591,Robust,0x0D60,,５の刻,The hour of 5
+ID05591,Robust,0x1608,,スピードを選んでください。,Please select a speed.
+ID05591,Robust,0x3010,,用語リスト,Glossary
+ID05591,Robust,0x3020,,解説をタッチしてください。,Please tap the explanation.
+ID05594,Robust,0x0A10,,こんにちわ\nシグマ,Hello Sigma
+ID05594,Robust,0x0A2B,,こんばんわ,good evening

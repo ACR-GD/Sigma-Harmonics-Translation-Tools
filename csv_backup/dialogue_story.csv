@@ -1,0 +1,520 @@
+File,Type,Offset,Index,Japanese,English
+ID04025,Robust,0x6882,,始めよ,Start
+ID04025,Robust,0x6892,,fただ１つ,f Just one
+ID04025,Robust,0x68A2,,明日を,Tomorrow
+ID04025,Robust,0x68B2,,！？,!?
+ID04025,Robust,0x68B9,,シ、シグマ、,"C, Sigma,"
+ID04025,Robust,0x68CC,,f何これ？！,f What is this?!
+ID04025,Robust,0x68DD,,何が起こったんだ？,What happened?
+ID04025,Robust,0x68F9,,まさか,No way
+ID04025,Robust,0x6909,,シグマ！,sigma!
+ID04025,Robust,0x6920,,無事！,Safe!
+ID04025,Robust,0x692A,,これなら、シグマ,"With this, Sigma"
+ID04025,Robust,0x6945,,家\nまで,To my home
+ID04025,Robust,0x6953,,帰れるよね？,"We can go home, right?"
+ID04025,Robust,0x6966,,あぁ,Ah
+ID04025,Robust,0x696D,,$c02逢魔$c00が溢れてる,$c02 Ouma $c00 is overflowing
+ID04025,Robust,0x6991,,それに街,And the city
+ID04025,Robust,0x69A9,,\n誰もいない,\nNobody
+ID04026,Robust,0x0808,,まだ推理は選べません\n本来はメニューに\nマスクがかかります,"You can't choose your deduction yet; normally, the menu would be masked."
+ID04030,Robust,0x0108,,始めよ,Start
+ID04030,Robust,0x0118,,fただ１,f only 1
+ID04030,Robust,0x210A,,始めよ,Start
+ID04030,Robust,0x211A,,fただ１,f only 1
+ID04030,Robust,0x3F5C,,始めよ,Start
+ID04030,Robust,0x3F6C,,fただ１つ,f Just one
+ID04030,Robust,0x3F7C,,明日を,Tomorrow
+ID04030,Robust,0x3F8C,,！？,!?
+ID04030,Robust,0x3F93,,シ、シグマ、,"C, Sigma,"
+ID04030,Robust,0x3FA6,,f何これ？！,f What is this?!
+ID04030,Robust,0x3FB7,,何が起こったんだ？,What happened?
+ID04030,Robust,0x3FD3,,まさか,No way
+ID04030,Robust,0x3FE3,,シグマ！,sigma!
+ID04030,Robust,0x3FFA,,無事！,Safe!
+ID04030,Robust,0x4004,,これなら、シグマ,"With this, Sigma"
+ID04030,Robust,0x401F,,家\nまで,To my home
+ID04030,Robust,0x402D,,帰れるよね？,"We can go home, right?"
+ID04030,Robust,0x4040,,あぁ,Ah
+ID04030,Robust,0x4880,,始めよ,Start
+ID04030,Robust,0x4890,,fただ１つ,f Just one
+ID04030,Robust,0x48A0,,明日を,Tomorrow
+ID04030,Robust,0x48B0,,！？,!?
+ID04030,Robust,0x48B7,,シ、シグマ、,"C, Sigma,"
+ID04030,Robust,0x48CA,,f何これ？！,f What is this?!
+ID04030,Robust,0x48DB,,何が起こったんだ？,What happened?
+ID04030,Robust,0x48F7,,まさか,No way
+ID04030,Robust,0x4907,,シグマ！,sigma!
+ID04030,Robust,0x491E,,無事！,Safe!
+ID04030,Robust,0x4928,,これなら、シグマ,"With this, Sigma"
+ID04030,Robust,0x4943,,家\nまで,To my home
+ID04030,Robust,0x4951,,帰れるよね？,"We can go home, right?"
+ID04030,Robust,0x4964,,あぁ,Ah
+ID04030,Robust,0x496B,,$c02逢魔$c00が溢れてる,$c02 Ouma $c00 is overflowing
+ID04030,Robust,0x498F,,それに街,And the city
+ID04030,Robust,0x49A7,,\n誰もいない,\nNobody
+ID04030,Robust,0x5F5E,,始めよ,Start
+ID04030,Robust,0x5F6E,,fただ１つ,f Just one
+ID04030,Robust,0x5F7E,,明日を,Tomorrow
+ID04030,Robust,0x5F8E,,！？,!?
+ID04030,Robust,0x5F95,,シ、シグマ、,"C, Sigma,"
+ID04030,Robust,0x5FA8,,f何これ？！,f What is this?!
+ID04030,Robust,0x5FB9,,何が起こったんだ？,What happened?
+ID04030,Robust,0x5FD5,,まさか,No way
+ID04030,Robust,0x5FE5,,シグマ！,sigma!
+ID04030,Robust,0x5FFC,,無事！,Safe!
+ID04030,Robust,0x6006,,これなら、シグマ,"With this, Sigma"
+ID04030,Robust,0x6021,,家\nまで,To my home
+ID04030,Robust,0x602F,,帰れるよね？,"I can go home, right?"
+ID04030,Robust,0x6042,,あぁ,Ah
+ID04030,Robust,0x6049,,$c02逢魔$c00が溢れてる,$c02 Ouma $c00 is overflowing
+ID04030,Robust,0x606D,,それに街,And the city
+ID04030,Robust,0x6085,,\n誰もいない,\nNobody
+ID04031,Robust,0x1EBC,,そんな,Such
+ID04031,Robust,0x1ECB,,\nまさか負けるなんて,\nI never thought we'd lose.
+ID04031,Robust,0x1EE9,,残念無念\n負け犬わんわん,"What a shame, what a loser, woof woof"
+ID04031,Robust,0x1F0D,,痛っ,Ouch!
+ID04031,Robust,0x1F16,,たあ。\nん,Taa.\n yeah
+ID04037,Robust,0x0014,,道がない,There is no road
+ID04037,Robust,0x002A,,この時間は、\nここから先の世界が\nないみたい,"At this time,\n It seems like there's no world beyond this point."
+ID04037,Robust,0x0071,,そうか、時の狭間は、\,"I see, the gap in time is..."
+ID04037,Robust,0x0A18,,静馬と,Shizuma and
+ID04037,Robust,0x0A2C,,怪しいのは\nどっちだ！,Which one is the suspicious one?!
+ID04037,Robust,0x1418,,小梅さんと,Koume-san
+ID04037,Robust,0x1428,,執事さん,Butler
+ID04037,Robust,0x1435,,どっちも,Both
+ID04037,Robust,0x1E18,,静馬と佳子,Shizuma and Yoshiko
+ID04037,Robust,0x1E28,,特に変なことは,Nothing in particular is strange
+ID04037,Robust,0x1E3E,,なさそうだね,Doesn't seem likely.
+ID04038,Table,0x0070,0,そうだ、シグマ,"That's right, Sigma"
+ID04038,Table,0x0086,1,はい、これ,"Yes, this"
+ID04038,Table,0x0096,2,【手帳】？,【pocket book】?
+ID04038,Table,0x00A6,3,うん、こんなことも\nあろうかと\n持ってきてたわ,"Yeah, I brought it along just in case something like this happened."
+ID04038,Table,0x012D,6,$,
+ID04038,Table,0x0134,7,$$8$|$,
+ID04038,Table,0x015E,8,O$c$|$,
+ID04038,Table,0x0191,9,|$^#,
+ID04038,Table,0x01FF,11,$─熚┗⬀%騀q,
+ID04038,Table,0x0258,12,─%騀q洀%─熚,
+ID04038,Table,0x02AB,13,騀䁱‟†鴠ᝩß斒慭湩挠猥⠠,
+ID04043,Robust,0x0818,,$c01すべての式札の\n残り使用回数が\n＋１された,$c01 The remaining uses of all talismans have been increased by 1.
+ID04043,Robust,0x085A,,$c01魂の影の位置が\n判,The location of the shadow of the soul $c01 is unknown.
+ID04043,Robust,0x166C,,と～うちゃく！,We've arrived!
+ID04043,Robust,0x1682,,やっと帰ってきたね,You're finally back!
+ID04043,Robust,0x169E,,うん、大時計も元通り,"Yes, the clock is back to normal."
+ID04043,Robust,0x16BD,,これで、一件落,That settles it.
+ID04048,Robust,0x020C,,？\nおかしいわね,?\n That's strange.
+ID04048,Robust,0x022A,,鍵がかかって,The door is locked.
+ID04053,Robust,0x0430,,シグマ,sigma
+ID04053,Robust,0x043A,,ん？,yeah?
+ID04053,Robust,0x0441,,そろそろ、\n戦闘中の旋律を\n変えてみない？,"It's about time,\n How about changing the melody during battle?"
+ID04053,Robust,0x047F,,そうだね、$c02逢魔$c00も\n多くなってくる\nだろうから,"Yeah, there will probably be a lot more $c02 Ouma $c00 too."
+ID04053,Robust,0x04C8,,こちらの戦い方にも\n幅が必要かもしれない,We may need to broaden our fighting style as well.
+ID04053,Robust,0x0504,,うん,Yeah
+ID04053,Robust,0x12EC,,この時間は\n現在選べません,This time slot is currently unavailable.
+ID04053,Robust,0x1313,,９時に飛びます\n　　　（仮）,I'll fly at 9 o'clock (tentative)
+ID04053,Robust,0x133D,,１０時に飛びます\n　　　（仮）,I'll be flying at 10 o'clock (tentative).
+ID04053,Robust,0x136A,,１１時に飛び,Fly at 11 o'clock
+ID04077,Robust,0x08CC,,ユリ子！\nユリ子はいるか！？,Yuriko!\n Is Yuriko there?!
+ID04077,Robust,0x0909,,どこにいったんだ？,Where did it go?
+ID04085,Robust,0x1338,,ねね？,Hey?
+ID04085,Robust,0x1342,,どこにいっちゃったの\nかしら,I wonder where they went.
+ID04085,Robust,0x1375,,ねねちゃん,Nene-chan
+ID04085,Robust,0x138A,,\n昇降機に,\nIn the elevator
+ID04085,Robust,0x139F,,ねねっちは厨で\n寂しい眠りに\nついている,Nenechi is sleeping sadly in the kitchen.
+ID04085,Robust,0x13E0,,家の,house
+ID04087,Robust,0x114C,,入り,entry
+ID04089,Robust,0x083C,,ん？,yeah?
+ID04089,Robust,0x0843,,ドサっ！！\nと大きな音\n（仮）,Thud!!\n and a loud noise (tentative)
+ID04089,Robust,0x086F,,針が動いて,The needle moves
+ID04089,Robust,0x0884,,\n落ちてきたのか,\nDid it fall?
+ID04089,Robust,0x08A2,,冷たい,cold
+ID04093,Table,0x0030,0,？！,?!
+ID04093,Table,0x0037,1,$c02自殺$c00……なの？,$c02 suicide $c00 ...is that it?
+ID04093,Table,0x0055,2,むむ……\nよっちゃん$c02自殺$c00？,Hmm...\n Yo-chan $c02 suicide $c00 ?
+ID04093,Table,0x0084,3,$c02自殺$c00……？\nなんで？？,$c02 suicide $c00 ...?\n why??
+ID04093,Table,0x00AD,4,これだけじゃ\n分からない……,This alone isn't enough information...
+ID04093,Table,0x00D7,5,【佳子の自殺？】\nの刻音を手に入れた！,[Was Yoshiko's suicide?]\n I obtained the sound of the marker!
+ID04097,Robust,0x03B4,,よくない印,Bad sign
+ID04097,Robust,0x03CA,,$c02廊下から人が走る物音\n（仮）$c00,$c02 Sound of someone running from the corridor (tentative) $c00
+ID04097,Robust,0x0400,,もしかして、\nこの後に,"Perhaps,\n After this"
+ID04097,Robust,0x0427,,推測。ねねっちは、\nこの後,"Speculation. Nenechi is,\n After this"
+ID04098,Robust,0x07A9,,あ、い,love
+ID04106,Robust,0x0220,,$c01ＳＰは特定の逢魔を\n倒すことで入手でき、,$c01 SP can be obtained by defeating certain demons.
+ID04106,Robust,0x0260,,$c01一定量溜めると、\n新たな神霊を降ろせる\nようになります,"When a certain amount of $c01 accumulates,\n You will be able to summon new divine spirits."
+ID04106,Robust,0x02B4,,$c01また、戦闘中に特定の\n行動をしていた場合、,"$c01 Also, if you performed a specific action during combat,"
+ID04106,Robust,0x02F7,,$c01得られるＳＰが\n２倍になります,$c01 The SP you receive will be doubled.
+ID04113,Robust,0x03CC,,なんどやっても、\n変だ,"No matter how many times I try,\n That's strange."
+ID04113,Robust,0x03F3,,こんなの初めて,This is the first time I've ever experienced something like this.
+ID04113,Robust,0x040F,,でも,but
+ID04113,Robust,0x041C,,一体、何が\n変なんだろ,What exactly is so strange?
+ID04117,Robust,0x0A80,,遅れました,I'm late.
+ID04117,Robust,0x0A90,,待たせて\nしまいましたか？,Did I keep you waiting?
+ID04117,Robust,0x0AB7,,いや、\n丁度いいところだよ,"no,\n That's just the right spot."
+ID04117,Robust,0x0ADE,,それでは、\n再開と,"So,\n Resumption and"
+ID04135,Robust,0x1E60,,えっ,Huh?
+ID04135,Robust,0x1E70,,どうして、鍵が,Why is the key
+ID04135,Robust,0x1E8F,,きゃぁーーーーー！,Ahhhhhhh!
+ID04135,Robust,0x1EAB,,！？,!?
+ID04135,Robust,0x1EB2,,む！？,nothing!?
+ID04135,Robust,0x1EBC,,な？！,What?!
+ID04135,Robust,0x1EC6,,な、なに？\nどうしたの？,W-what?\n what happened?
+ID04135,Robust,0x1EEA,,新事件？,New incident?
+ID04135,Robust,0x1EF7,,ちょっと、何事？！,"Hey, what's going on?!"
+ID04135,Robust,0x1F13,,僕らも中に\n入ってみよう,Let's go inside too.
+ID04135,Robust,0x1F37,,きっと、\n魂の影もあるはずだ,"surely,\n There must be a shadow of the soul as well."
+ID04135,Robust,0x1F61,,【鍵を開けた佳子】\nの刻音を手に入れた！,[Kako unlocks the door]\n I obtained the sound of the marker!
+ID04139,Robust,0x1F78,,まだ、嫌な\n結果しかでない,"So far, only negative results have been obtained."
+ID04139,Robust,0x1FA5,,きゃぁーーーーー！,Ahhhhhhh!
+ID04139,Robust,0x1FC7,,母様？,Mother?
+ID04139,Robust,0x1FD1,,な、なんじゃ！,W-what?!
+ID04139,Robust,0x1FE7,,ねねちゃんは、この時、\n部屋にい,"At this time, Nene-chan\n In the room"
+ID04159,Robust,0x1230,,あれ？\nこんな染み、前から\nあったっけ？,Huh?\n Was this stain here before?
+ID04159,Robust,0x126B,,ふみゅ\nこの染み、以前から？,Has Fumiko's stain been there for a while?
+ID04159,Robust,0x1295,,あれー？\nあそこに、あんな染み\nあったっけなぁ？,Huh?\n I wonder if there was a stain like that there before?
+ID04159,Robust,0x12DC,,覚えがないな,I don't remember.
+ID04159,Robust,0x12F5,,血にも見える,It looks like blood
+ID04159,Robust,0x130D,,\n刻音にしておこう,\nLet's leave it as a calligraphic sound.
+ID04159,Robust,0x1328,,【列車の上の染み】\nの刻音を手に入れた！,[Stain on the train]\n I obtained the sound of the marker!
+ID04161,Robust,0x0E30,,ん？\nどうしたの？,yeah?\n what happened?
+ID04161,Robust,0x0E4B,,ふみゅ？\nなにごと？,Huh?\n what's happenin?
+ID04161,Robust,0x0E69,,あん？\nどしたの？,bean paste?\n What's wrong?
+ID04161,Robust,0x0E84,,あのツタ、ずいぶん\n不自然な抜け落ち方を\nしている,Those ivy vines are falling off in a very unnatural way.
+ID04161,Robust,0x0ED4,,刻音にしておこう,Let's leave it as a calligraphic sound.
+ID04161,Robust,0x0EED,,【落ちたツタ】\nの刻音を手に入れた！,[Fallen Ivy]\n I obtained the sound of the marker!
+ID04161,Robust,0x1810,,くっ、思ったより\n$c02逢魔$c00が強い,"Damn, it's worse than I thought.\n $c02 Ouma $c00 is strong"
+ID04161,Robust,0x1842,,次から気をつけよう,I'll be more careful next time.
+ID04163,Robust,0x09D4,,あ、式札で\n他の時が紡げるよう,"Ah, so that other moments can be woven together with the ceremonial plaque."
+ID04163,Robust,0x1A9C,,やったー！,Yay!
+ID04163,Robust,0x1AAC,,ふふ、私たちの息も、\nずいぶん合うように\nな,"Hehe, our breath too,\n We've grown quite a bit in sync."
+ID04169,Robust,0x1AA0,,イベント制作中,Event production in progress
+ID04169,Robust,0x1AB6,,やっと,at last
+ID04171,Robust,0x13A8,,イベント制作中,Event production in progress
+ID04171,Robust,0x13BE,,！？,!?
+ID04171,Robust,0x13C5,,黒上の頭首,Black Head
+ID04171,Robust,0x13DA,,\nなんで？,\nwhy?
+ID04171,Robust,0x13E9,,$c02死$c00んでるのか,Is $c02 dead $c00 ?
+ID04171,Robust,0x1409,,？\nそんな馬鹿な,?\n That's ridiculous
+ID04171,Robust,0x142D,,？！\n母,?!\n mother
+ID04173,Robust,0x13E8,,イベント制作中,Event production in progress
+ID04173,Robust,0x13FE,,？　暗い,? Dark
+ID04173,Robust,0x1411,,電球が切れてるのか？,Is the light bulb burnt out?
+ID04173,Robust,0x143D,,$c02死$c00んでる,$c02 is dead $c00
+ID04173,Robust,0x1458,,？　右手に,? In my right hand
+ID04175,Robust,0x1314,,イベント制作中,Event production in progress
+ID04175,Robust,0x132A,,ゆう君まで,Even Yu-kun
+ID04175,Robust,0x1340,,首を強く,Straighten your neck
+ID04175,Robust,0x1352,,\nむごいことを,\nCruel
+ID04175,Robust,0x137A,,初登場？,First appearance?
+ID04175,Robust,0x1387,,ゆう君って、誰？,Who is Yu-kun?
+ID04175,Robust,0x13A0,,ゆう,excellent
+ID04175,Robust,0x13AC,,\nって言っ,\nThat's what I said.
+ID04182,Robust,0x199C,,イベント制作中,Event production in progress
+ID04182,Robust,0x19B2,,大婆様まで,Even Grandmother
+ID04182,Robust,0x19C8,,背中を\n刺されている,He was stabbed in the back.
+ID04182,Robust,0x19EC,,$c02自殺$c00じゃないな,"$c02 suicide, not $c00 ."
+ID04182,Robust,0x1A0F,,\n誰かに$c,\nTo someone $c
+ID04187,Robust,0x0DE4,,イベント制作中,Event production in progress
+ID04187,Robust,0x0E04,,か、母さん！！,M-Mom!!
+ID04187,Robust,0x0E1A,,母さんまで,Even my mother
+ID04187,Robust,0x0E2F,,\nなんで,\nwhy
+ID04187,Robust,0x0E44,,くっ,Damn
+ID04187,Robust,0x0E57,,酷い,terrible
+ID04190,Table,0x0050,0,イベント制作中,Event production in progress
+ID04190,Table,0x0066,1,彼まで……,
+ID04190,Table,0x0076,2,手を縛りつけて\n固定されている……,His hands are tied and he is restrained...
+ID04190,Table,0x00A9,3,$c02感電死$c00……？\nもう冷たい……,$c02 electrocution $c00 ...?\n It's already cold...
+ID04190,Table,0x00DB,4,感電……？,
+ID04190,Table,0x00EB,5,鯩鞰菣ꪃ䌀敲쥡彤灣䙫੃††〲,
+ID04190,Table,0x0111,6,"45 aware mail clients.
+
+    nstance.",
+ID04197,Robust,0x08D0,,【逢魔との戦闘】,[Battle against the demon]
+ID04197,Robust,0x08E9,,逢魔との戦闘には\nネオンだけが参加し、,Only Neon participated in the battle against the demons.
+ID04197,Robust,0x0922,,シグマであるあなたは、\n後,"As a Sigma,\n rear"
+ID04197,Robust,0x1484,,【曲の変更】,[Change of song]
+ID04197,Robust,0x1497,,戦闘中、３つの\nゲージが溜まる速度は、,"During battle, the rate at which the three gauges fill up is:"
+ID04197,Robust,0x14D0,,現在設定されている\n曲によって異なります,It depends on the currently set song.
+ID04197,Robust,0x150C,,曲を変える,Change the song
+ID04197,Robust,0x1FCC,,【神降ろしの変更】,[Changes to the divine summoning ritual]
+ID04197,Robust,0x1FE8,,戦闘中、\n右上の「神」のボタンを\nタッチすることで、,"During combat,\n By touching the ""God"" button in the upper right corner,"
+ID04197,Robust,0x2035,,ネオンに降ろす\n神（ネオンの姿）を,The god that descends upon neon (in the form of neon)
+ID04197,Robust,0x2068,,変更する,Change
+ID04198,Robust,0x1F1C,,\n誰もいない,\nNobody
+ID04198,Robust,0x2DEE,,れに,Reni
+ID04198,Robust,0x2FF0,,れに,Reni
+ID04198,Robust,0x3D54,,、シ,","
+ID04198,Robust,0x3F1E,,\n誰もいない,\nNobody
+ID04198,Robust,0x49EC,,れに,Reni
+ID04198,Robust,0x4BEE,,れに,Reni
+ID04198,Robust,0x4DF0,,れに,Reni
+ID04198,Robust,0x4FF2,,れに,Reni
+ID04198,Robust,0x51F4,,れに,Reni
+ID04198,Robust,0x5D56,,、シ,","
+ID04198,Robust,0x5F20,,\n誰もいない,\nNobody
+ID04203,Robust,0x001C,,$c02逢魔$c00？！,$c02 ouma $c00 ? !
+ID04203,Robust,0x0031,,$c03にゃんだとー！,$c03 nyandato!
+ID04203,Robust,0x004B,,$c02失敬なやつだ,$c02 is a rude guy.
+ID04203,Robust,0x0062,,$c04失礼っす,"Excuse me, $c04"
+ID04203,Robust,0x0073,,$c02我らは神だ,$c02 We are God
+ID04213,Robust,0x1694,,やったね、シグマ,"Yay, Sigma!"
+ID04213,Robust,0x16AD,,にゃ～入手、至福の時,"Meow~ I got it, what a blissful moment."
+ID04213,Robust,0x16CC,,やったあ！,Yay!
+ID04213,Robust,0x16DC,,ああ、$c02逢魔$c00,"Ah, $c02 Oumaga $c00"
+ID04215,Robust,0x1328,,折角捕まえたのに,"I went to all the trouble of catching it, but..."
+ID04215,Robust,0x1347,,うーん、なんだか相性が\n悪かったみたいだ,"Hmm, it seems like we just weren't compatible."
+ID04215,Robust,0x1383,,ねえ、シグマ,"Hey, Sigma"
+ID04215,Robust,0x1396,,うん？,Yeah?
+ID04215,Robust,0x13A0,,次は、別の神を降ろして\n戦ってみたら\nどうか,"Next, how about summoning a different god to fight?"
+ID04219,Robust,0x1AAC,,イベント制作中,Event production in progress
+ID04219,Robust,0x1AC2,,ユリ子さんの入れた\n紅茶、おいしいわね,The tea Yuriko made is delicious.
+ID04219,Robust,0x1AFB,,何か、特別な物？,Is it something special?
+ID04219,Robust,0x1B14,,そうみたい,It seems so.
+ID04221,Robust,0x1850,,イベント制作中,Event production in progress
+ID04221,Robust,0x1866,,ユリ子さん？,Yuriko-san?
+ID04221,Robust,0x1879,,はい、\n何かご用ですか？,"yes,\n Is there anything I can help you with?"
+ID04221,Robust,0x189D,,あら？　電球？,Oh? A light bulb?
+ID04221,Robust,0x18B3,,そうみたいですね,It seems so.
+ID04233,Table,0x018B,5,"
+te ncf",
+ID04233,Table,0x019B,6,es th,
+ID04233,Table,0x01E9,8,f⸀琊ࡥ܀†ؠ暂渀鄠f⸀琊ࡥ܀ਊؠ,
+ID04233,Table,0x0230,9,ꨀf⁮晦ࠀਮ整 渀瑣敦⁳ੴ︅ጠ敇Ā܀,
+ID04233,Table,0x0266,10,†ጠ敇ĀĆ܀׿￹楤楴湯ਊ†⸁琊,
+ID04233,Table,0x02A3,12,੮ †朠瑥楦敬»밀Ā朷밀Ā,
+ID04233,Table,0x02D6,13,Zgn kg)n :ge interface fes,
+ID04233,Table,0x0311,14,琠܀׿￷׿￹楤,
+ID04233,Table,0x0327,15,ੴ整楦敬½娇ბ樵ԇ￹楤楴湯ਊ††敧晴汩뵥܀Z¾,
+ID04233,Table,0x03EB,18,쀀Ā桥쀀Ā梈餀hᄐĩԆ⁮桡ბ樵栍ൖൾघ,
+ID04233,Table,0x0435,19,ª뼀ը棐က⤑ā؀鰀텨㔐ݪ串擿瑩潩੮ ,
+ID04233,Table,0x0471,20,†朠瑥楦敬ã娇ბ樵栍ൖൾघä娂ბ樵ԇ￹楤楴湯ਊ††敧晴汩,
+ID04233,Table,0x04AC,21,娇ბ樵栍ൖൾघæ娂ბ樵栍ൖൾ,
+ID04233,Table,0x051A,23,"
+",
+ID04234,Robust,0x0428,,イベント制作中,Event production in progress
+ID04234,Robust,0x043E,,ゆう、いる？,"Yu, are you there?"
+ID04234,Robust,0x0451,,あ、おねえちゃん,"Oh, big sister"
+ID04234,Robust,0x0470,,やっぱり,on second thoughts
+ID04234,Robust,0x047D,,ん？,yeah?
+ID04234,Robust,0x0484,,今日は、,Today is
+ID04235,Robust,0x1DA4,,イベント制作中,Event production in progress
+ID04235,Robust,0x1DBA,,ん？\n何か盗み見てるみたい,yeah?\n It looks like they're secretly watching something.
+ID04235,Robust,0x1DE1,,ふみゅ？\n仮面、何見てる？,"Huh?\n Masked man, what are you looking at?"
+ID04235,Robust,0x1E08,,ん？\n何、見てるんだろ？,yeah?\n What are they looking at?
+ID04237,Robust,0x1BC0,,すみません、佳子様,"Excuse me, Princess Kako"
+ID04237,Robust,0x1BDC,,丁度、用事が\n,"Just then, I had an errand to run.\n"
+ID04248,Robust,0x0250,,イベント制作中,Event production in progress
+ID04248,Robust,0x0266,,ガチャガチャ\n（仮）,Gachapon (tentative name)
+ID04248,Robust,0x0284,,扉を破る音\n（仮）,The sound of a door being broken down (tentative)
+ID04248,Robust,0x02AC,,仕方ない,It can't be helped.
+ID04248,Robust,0x02B9,,僕たちも、\n中に入ってみよう,"We too,\n Let's go inside."
+ID04248,Robust,0x02E3,,僕たちも,We too
+ID04248,Robust,0x02F6,,えぇ,Yes
+ID04248,Robust,0x0304,,さっさと、入るわよ！,Let's go in quickly!
+ID04250,Table,0x00A8,0,イベント制作中,Event production in progress
+ID04250,Table,0x00BE,1,…………,
+ID04250,Table,0x00CB,2,だめだ……もう\n亡くなっている……,
+ID04250,Table,0x011E,5,銂触ꮁ藥貂臣膼,
+ID04250,Table,0x0134,6,【落ちていた鍵】\nの刻音を,[The key that was found lying around]\n The sound of the carving
+ID04250,Table,0x015B,7,手に入れた！,I got it!
+ID04250,Table,0x0184,9,︀ŠĢ؀,
+ID04250,Table,0x0197,10,⌀Xˠƶ	ऀ-堀,
+ID04250,Table,0x0270,15,ꘀq傸༸뤚nñ格,
+ID04250,Table,0x02F3,17,,
+ID04250,Table,0x0326,18,,
+ID04250,Table,0x0359,19,,
+ID04251,Robust,0x1B44,,イベント制作中,Event production in progress
+ID04251,Robust,0x1B5A,,時の調律ね,The tuning of time.
+ID04253,Table,0x0020,0,イベント制作中,Event production in progress
+ID04253,Table,0x0036,1,……この時間には、\n何も仕掛けを\nされていない……,"...At this time,\n There are no traps set..."
+ID04253,Table,0x0080,2,じゃあ、犯人は、\nこの時間より後に？,"So, the culprit is,\n After this time?"
+ID04253,Table,0x00B6,3,…………,
+ID04256,Table,0x0060,0,…………,
+ID04256,Table,0x006D,1,お前は私から何を\n奪えば満足なの？,What do you need to take from me to satisfy you?
+ID04256,Table,0x00A0,2,命だけじゃ\n足りなかった？,Wasn't just a life enough?
+ID04256,Table,0x00C7,3,？　なんの話だ？,What are you talking about?
+ID04256,Table,0x0143,6,"ജ쉡D
+Ā挕ꔁ牯䄠 瑳楲杮挠湯t",
+ID04256,Table,0x0185,8,ട✀ﵾ澽⁮,
+ID04256,Table,0x0195,9,"㿘쉡D
+ᨀ䣀謀O᐀Վᔀţ능濰⁲瑩洠祡戠",
+ID04257,Robust,0x0A08,,どうして,Why
+ID04257,Robust,0x0A1A,,\nどうして、黒上は,\nWhy is Kuroue
+ID04257,Robust,0x0A3B,,ディクソン,Dixon
+ID04257,Robust,0x0A51,,封印の扉から\n鎖が飛び出て,Chains burst out from the sealed door
+ID04259,Robust,0x0E08,,割れた窓を抜けて、\n空高く飛んでいく\nにカメラがついてく音,"Through the broken window,\n The sound of a camera following as it flies high into the sky"
+ID04261,Robust,0x06F4,,なんだ、いないのか,"Oh, he's not here?"
+ID04261,Robust,0x0710,,はやすぎたか,Was it too early?
+ID04261,Robust,0x072A,,うん？,Yeah?
+ID04261,Robust,0x0734,,なんだ、そんなと,"What, that's not true"
+ID04263,Table,0x001F,1,ᤀ대㠀ⴀ芁苣膀臣뚌볤ꞁ臣讁볯臣芁胣龁臣ꮁ臣꾙觨銂湜ꛨꪁ臣覂賨銂ꏩ肂臣节湜臣袁苣鎂臣莂ꮁ臣蒁胢㌀ėЀQ鬀₠毸ᝨ䄰怮刞烯䨎㬃젉᪡簰寺聇￴삦툳㦂ᦀࠂ郘댡ޭ㓦䦰䃓ࡔ뽵ҟ⩨캀ἄ혇퀏Fඍ欢㰋릱擀聩ȷ‐臟壯Ր〆옰㈙,
+ID04265,Robust,0x30B8,,ユリ子さん？,Yuriko-san?
+ID04265,Robust,0x30D5,,掃除をしようと、\nここに上がりましたら,"I decided to clean,\n If you come up here"
+ID04266,Robust,0x15E0,,このたびは、\n旦那様が,"This time,\n My husband"
+ID04266,Robust,0x1607,,一体、何が起きて\nいるのでしょう,What exactly is going on?
+ID04266,Robust,0x1637,,何か、違和感のような\nものを覚え,I felt something was off.
+ID04269,Table,0x0098,0,何ということじゃ\n…………,
+ID04269,Table,0x00BF,1,なぜ、誰が……？,
+ID04269,Table,0x00D8,2,ハッキリさせねばの,We need to make this clear.
+ID04269,Table,0x00F4,3,ふぅ,Phew
+ID04269,Table,0x00FB,4,,
+ID04269,Table,0x0122,5,,
+ID04269,Table,0x0193,7,,
+ID04269,Table,0x01A0,8,,
+ID04269,Table,0x01B0,9,,
+ID04269,Table,0x01D4,10,褀,Sleeves
+ID04269,Table,0x0207,11,,
+ID04269,Table,0x0254,12,,
+ID04269,Table,0x0273,13,u<,
+ID04269,Table,0x02CF,14,,
+ID04269,Table,0x02D9,15,r,
+ID04269,Table,0x031D,16,,
+ID04269,Table,0x0327,17,,
+ID04275,Robust,0x0094,,何があったんじゃ！,What happened?!
+ID04275,Robust,0x00B0,,わかりません,I don't understand
+ID04275,Robust,0x00C3,,近くで変な音が\n聞こえたから、\n何かと,"I heard a strange noise nearby,\n In various ways"
+ID04283,Table,0x00B8,0,守人！\n今の銃声は何じゃ！,Guardian!\n What was that gunshot just now?!
+ID04283,Table,0x00DF,1,……これは,
+ID04283,Table,0x0105,3,Ｃoě⍨狿ᰀȁﺝ؁栆,
+ID04283,Table,0x013D,4,Ｃrě夀Ĺ,
+ID04283,Table,0x01A7,7,,
+ID04283,Table,0x01BC,8,,
+ID04283,Table,0x01EF,9,,
+ID04283,Table,0x023F,11,ܼ荫sሀ,
+ID04283,Table,0x029B,13,猀В⍨烿⠄뵝䄏텶耷ᴀ=,
+ID04283,Table,0x02D0,14,܀欇҃猀В⍨燿⠄뵝䄏텶耷,
+ID04283,Table,0x0396,17,猀В⍨狿⠄뵝䄏텶耷ᴀîࠀ荫,
+ID04283,Table,0x03E5,18,sh,
+ID04283,Table,0x03F2,19,Ｃű糮ӧ崨྽,
+ID04283,Table,0x0429,21,荫sሀ栄Ｃ]糮ӧ崨྽癁࿑㟡㮀䀛鵶,
+ID04303,Robust,0x0566,,\n時空の裂け目が,\nA rift in spacetime
+ID04305,Robust,0x085D,,まだ\n消えていないのか？,Hasn't it disappeared yet?
+ID04305,Robust,0x0881,,いい加減、\n邪魔に思えてくるぞ,"Enough already,\n It's starting to feel like a nuisance."
+ID04305,Robust,0x08AE,,法水、答えろ、,"Hōsui, answer me."
+ID04305,Robust,0x1248,,いるよ,"Yes, I am."
+ID04305,Robust,0x1258,,ネオン,neon
+ID04305,Robust,0x126B,,うん。あなたは\n残しているの,Yes. You're leaving some behind.
+ID04305,Robust,0x1295,,もう１つの可能性,Another possibility
+ID04305,Robust,0x12B4,,今までのようには\n側にいられないけど,"I can't be by your side like before, but"
+ID04305,Robust,0x12EA,,一緒に見せて。\nあなたの作る\n未来を,Let me see it too.\n The future you create
+ID04305,Robust,0x132B,,あぁ,Ah
+ID04305,Robust,0x1338,,まずは、\nこの世界の謎を,"First,\n The mysteries of this world"
+ID04305,Robust,0x1362,,解き明かす！！,Unraveling the mystery!!
+ID04319,Robust,0x1048,,もう、やだよぉ,I can't take it anymore.
+ID04319,Robust,0x1074,,ゆうは、お姉ちゃんが\n守るから,"Yuu, your big sister will protect you."
+ID04319,Robust,0x10A7,,ねねちゃん、強いね,"Nene-chan, you're strong!"
+ID04319,Robust,0x10C3,,ねねっちは、\nゆーっちの支え,"Nenechi is,\n Yuuchi's support"
+ID04319,Robust,0x10ED,,もう、子供とはいえ\n男の子なんだから\nシャキっとしなさい！,"Even though you're a kid, you're a boy now, so pull yourself together!"
+ID04319,Robust,0x1143,,そうだね,I agree
+ID04319,Robust,0x1150,,そ、そうだね,"Y-Yeah, that's right."
+ID04319,Robust,0x1163,,【ゆうを守るねね】\nの刻音を手に入れた！,[Nene protects Yuu]\n I obtained the sound of the marker!
+ID04321,Robust,0x12E8,,他のみなさんは？,How about everyone else?
+ID04321,Robust,0x1301,,佳子は\n２階の電話で、外に\n連絡,Yoshiko used the phone on the second floor to contact someone outside.
+ID04324,Robust,0x15B0,,さっきの声は,That voice from earlier
+ID04324,Robust,0x15CC,,佳子の声だ\n場所は、どこだ？！,That's Yoshiko's voice! Where is this?!
+ID04324,Robust,0x15F9,,こっちの方なのは\n確かです,I'm sure it's this way.
+ID04324,Robust,0x1620,,娯楽室の方へ\n行ってみましょう！,Let's go to the recreation room!
+ID04327,Robust,0x09D4,,どうした！,what up!
+ID04327,Robust,0x09E4,,分かりません。\n多分、ここから悲鳴が,I don't know.\n I think the screams started from here.
+ID04327,Robust,0x0A1A,,ダメだ、\n鍵が閉まってる,"No,\n The door is locked."
+ID04327,Robust,0x0A3E,,鍵は？！,Where's the key?!
+ID04331,Robust,0x07D0,,そんな,Such
+ID04337,Robust,0x0E5C,,月弓に、\n式を飛ばしてくれ,"On the moon bow,\n Skip the equation"
+ID04337,Robust,0x0E83,,電話も無線も\nダメでな,Neither telephone nor wireless communication worked.
+ID04337,Robust,0x0EA4,,至急、黒上の館まで\n来てくれとな,They need me to come to Kurokami's mansion immediately.
+ID04341,Table,0x0038,0,？　ゆう？\nどこ？,? excellent?\n where?
+ID04341,Table,0x0053,1,……ゆう君がいない,
+ID04341,Table,0x006F,2,ふみゅ……？\nゆーっち、どこ行った？,"Fumyu...?\n Yu-chan, where did you go?"
+ID04341,Table,0x00A5,3,あの恐がりが\n１人でどっかに\n行ったっての？,Did that scaredy-cat go off somewhere by herself?
+ID04341,Table,0x00E6,4,やな感じだ……,
+ID04341,Table,0x00FC,5,他も見てみよう,Let's look at others as well.
+ID04341,Table,0x0112,6,【消えたゆう】\nの刻音を手に入れた！,[Yuu Who Disappeared]\n I obtained the sound of the marker!
+ID04347,Table,0x00C8,0,…………,
+ID04347,Table,0x00D5,1,静馬さん,Shizuma-san
+ID04347,Table,0x00E2,2,？　なんだ,? What's that?
+ID04347,Table,0x00F2,3,꿦銂鿧￿￿瓿樀ꀁ簂ꄁ紁朏噷,
+ID04347,Table,0x010E,4,漀赣ၖ䠁ºĐꅈ股歌㫰漀띣ꅖ紀椒紀搓搂萃簀,
+ID04347,Table,0x0138,5,䐄ꘀV捯嚷Đ뭈က䠁股ꇵ䲀꠺៮O≼楤瑡쁥恱퀉怒Ⰾ囙漀酣,
+ID04347,Table,0x0174,6,浘ᙀ⬠拏慸佣,
+ID04347,Table,0x01B7,8,聋쁩恱퀉怒Ⰾ圲湯䠠,
+ID04347,Table,0x01CD,9,ၗ䠁ÞĐꅈ股歌㫰䱍椠晘ਠ祇਩祇਩祇਩†愠,
+ID04347,Table,0x0282,14,W†堠ࡤက䠁股ꇵ䲀,
+ID04347,Table,0x0298,15,䴺⁌塩¡ችi፽ɤͤѼD堝䱍㌠摘欈ëĐꅈ,
+ID04347,Table,0x02C2,16,股歌㫰䱍椠ᅘ֠ᕼդơᅼڠ䲡䵘⁌塢ࡤက䠁股ꇵ䲀䴺⁌塩਺ †ㄠ,
+ID04347,Table,0x0369,19, †壘祢ၘ䠁êĐꅈ股歌㫰祢㈠豈㠃㼂逫耄,
+ID04347,Table,0x03EC,21,⥹䜊⥹䜊⥹ †奥愠筮ၙ䠁ïĐꅈ股歌㫰祢㈠`abc๴ᙼƃ๴⁙湡奤Đက,
+ID04347,Table,0x04DC,24,簖茞*耀楦摥戠⁹楴䁭‖嬫磹捡O੼֠簢茛⨃cⰊ°S††瘠ɡ,
+ID04349,Robust,0x0248,,ん？　なんだ？,Huh? What is it?
+ID04349,Robust,0x0264,,あっ,Ah
+ID04349,Robust,0x0271,,か、母さん！！！！！,M-Mom!!!!
+ID04349,Robust,0x0290,,な、なんで、なんで、\n母さん,"W-why, why,\n Mom"
+ID04349,Robust,0x02BF,,母さん！！,Mom!!
+ID04349,Robust,0x02D5,,酷い,terrible
+ID04349,Robust,0x02E2,,ふみゅ,Fumyu
+ID04349,Robust,0x02F1,,\n少々酷い,\nA bit harsh
+ID04349,Robust,0x030F,,これ,this
+ID04349,Robust,0x031B,,\nなんか、恨みでも？,\nDo you have some kind of grudge?
+ID04349,Robust,0x0339,,今までと同じか,Is it the same as before?
+ID04349,Robust,0x0355,,【麟がみつけた母,[The mother that Rin found]
+ID04349,Robust,0x0370,,】\nの刻音を手に入れた！,】\n I obtained the sound of the marker!
+ID04379,Robust,0x0028,,式札に変化,Changes in the ceremonial tags
+ID04379,Robust,0x0041,,うん、新しい時間が\n紡げるみたい,"Yes, it looks like we can weave a new time together."
+ID04379,Robust,0x0071,,肯定。新しい時間\n紡げるふう,Affirmative. A feeling that we can weave new time.
+ID04379,Robust,0x009B,,そうみたい。\n,It seems so.\n
+ID04381,Robust,0x0218,,始めよう、この世界、\n最後の時紡ぎを,"Let's begin, this world\n The final moments"
+ID04381,Robust,0x025B,,はい、未来の,"Yes, future"
+ID04381,Robust,0x0273,,\n全ての人のために,\nFor all people
+ID04388,Robust,0x0430,,貴様か、最後まで\n面倒をかけてくれる,"So it was you, who's going to cause trouble until the very end."
+ID04388,Robust,0x0466,,まぁ、いい。\n時は満ちた,"Well, that's fine.\n The time is ripe."
+ID04388,Robust,0x048A,,この世界を\n終わらせるとしよう,Let's end this world.
+ID04388,Robust,0x04B7,,大丈夫か？　乱歩,"Are you alright, Ranpo?"
+ID04388,Robust,0x04D0,,えぇ、おかげさまで,"Yes, thanks to you"
+ID04388,Robust,0x04EC,,君は,you
+ID04390,Robust,0x0558,,あの男に任せて\n大丈夫でしょうか？,Is it really okay to leave it to that man?
+ID04390,Robust,0x058B,,大丈夫だよ、\n彼は「私」だからね,"it's okay,\n He is ""me,"" you know."
+ID04390,Robust,0x05BB,,は？,teeth?
+ID04390,Robust,0x05C2,,それに、彼は\n姉さんとも一,"In addition, he also has a sister"
+ID04390,Robust,0x1168,,イベント制作中,Event production in progress
+ID04390,Robust,0x117E,,ラスボス戦前イベント\nをスキップします,I will skip the event before the final boss battle.
+ID04390,Robust,0x11B7,,エンディングと\nスタッフロールも\n,The ending and staff roll too\n
+ID04390,Robust,0x11EA,,では制作中です,We are currently working on it.
+ID04390,Robust,0x2172,,君はここまで\n何をしに来たんだ？,What did you come here for?
+ID04390,Robust,0x2A30,,ずいぶんと\n無茶をするね,That's quite reckless.
+ID04390,Robust,0x2A54,,時間もありません\nでしたゆえ、緊急措置\nということで,"Since we didn't have much time, we took emergency measures."
+ID04390,Robust,0x2AAE,,調律者は\nこの先にいます。\nお気を付けて,The piano tuner is ahead.\n Take care.
+ID04390,Robust,0x2AE9,,あぁ、行ってきます,"Ah, I'm off."
+ID04390,Robust,0x2B05,,ここまでのお話を\n記録しますか？,Shall I record what we've discussed so far?
+ID04390,Robust,0x3418,,時は何ものにも\n代え難い,Time is priceless.
+ID04390,Robust,0x3442,,終わりにしよう,Let's end this.
+ID04390,Robust,0x3458,,消えろ,Get lost
+ID04406,Robust,0x098C,,いないのか,Are they not there?
+ID04406,Robust,0x099C,,おい？,Hey?
+ID04406,Robust,0x09AA,,まさか？,No way?
+ID04406,Robust,0x09B7,,何という,What
+ID04411,Robust,0x0C60,,何か、私に\nお聞,Is there anything you'd like to ask me?
+ID04425,Table,0x0088,0,一体,Together
+ID04425,Table,0x008F,1,何故……,
+ID04425,Table,0x009C,2,ゆう君……,
+ID04425,Table,0x00AC,3,酷いよ、\nこんな所に無造作に…,That's awful.\n It's just sitting there so carelessly...
+ID04425,Table,0x00D9,4,ゆーっち……,
+ID04425,Table,0x0122,6,,
+ID04425,Table,0x012F,7,ᦺ଀,
+ID04425,Table,0x017C,8,,
+ID04425,Table,0x01AF,9,,
+ID04425,Table,0x0239,11,᫉楮潣,
+ID04425,Table,0x028A,13,,
+ID04425,Table,0x02C0,14,",",
+ID04425,Table,0x02D9,15,af,
+ID04441,Robust,0x04C4,,どうしましょう？,What should we do?
+ID04441,Robust,0x04DD,,こんな所に\n隠れたけど、,"I hid in a place like this,"
+ID04441,Robust,0x0501,,もう気付かれてると\n思う,I think they've already noticed.
+ID04469,Robust,0x05D4,,どうなさいました,may i help you
+ID04469,Robust,0x05ED,,うん、譲葉君が\n忘れ物をしてるの,"Yes, Yuzuriha has forgotten something."
+ID04469,Robust,0x061D,,麟様なら、娯楽室へ\n向かったようです,It seems that Rin-sama has headed to the recreation room.
+ID04469,Robust,0x0653,,後ほど,later
+ID04497,Robust,0x1398,,誰もいない,Nobody
+ID04497,Robust,0x13AF,,えっ！？,Huh!?
+ID04497,Robust,0x13BC,,くっくっくっ,Hehehe
+ID04497,Robust,0x13D5,,犯行現場！？,Crime scene! ?
+ID04497,Robust,0x13E8,,だよね、だよね？,"Right, right?"
+ID04497,Robust,0x1401,,私も事件の目撃者,I was also a witness to the incident.
+ID04497,Robust,0x141A,,こん,dark blue

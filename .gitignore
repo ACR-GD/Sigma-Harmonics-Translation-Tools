@@ -1,0 +1,25 @@
+# ROMs and game data
+*.nds
+*.sav
+*.bin
+*.cpk
+
+# Extracted ROM directories
+2581 - Sigma Harmonics (J)(Independent)/
+extracted_cpk/
+rom_work/
+
+# Ghidra project files (usually huge)
+OGhidra/
+SigmaHarmonics.rep/
+ghidra_workspace/
+
+# OS files
+.DS_Store
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Local env
+.env
